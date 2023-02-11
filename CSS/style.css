@@ -1,0 +1,28 @@
+h1 {
+  color: rgb(36, 5, 103);
+}
+
+body {
+  background-color: #488ea4;
+  color: #100d03;
+}
+
+form {
+  background-color: #77c1e6;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px #ef8b8b;
+}
+
+.form-label {
+  font-weight: bold;
+}
+
+.form-control {
+  border-radius: 10px;
+}
+
+.form-text {
+  font-style: italic;
+  color: #337AB7;
+}/*# sourceMappingURL=style.css.map */
